@@ -6,10 +6,21 @@ Select a hotkey to highlight a selection of items.
 
 You can choose a target, and optionally select an option. Wildcards at the start or end of things are supported.
 
-`attack, man`
-`man`
-`take, shark`
-`take, saradomin brew*` 
+```
+attack, man
+```
+
+```
+man
+```
+
+```
+take, shark
+```
+
+```
+take, saradomin brew*
+``` 
 
 # Limitations
 
